@@ -1,8 +1,11 @@
-# Plant Monitor - Typically for Blue Jacket Hyacinth
+# Plant Monitor - Blue Jacket Hyacinth
 Hello! Welcome to the repository for the Plant Monitoring Device designed to cater to the specific needs of Hyacinthus enthusiasts!
 
 ## Overview
-In this repository is typically including the work process of connecting and putting togther a plant monitor and realtime code and updated data progresses. in this case we specialized to Blue Jacket Hyacinthus
+In this repository is typically including the work process of connecting and putting togther a plant monitor and realtime code and updated data progresses. in this case we specialized to Blue Jacket Hyacinthus.
+-hyacinth bulbs normally plant in the fall, about 4-6 weeks before the ground freezes. This allows them to establish roots before winter.
+Temperature: The bulbs need the cool of winter to simulate their natural environment and encourage proper sprouting in the spring.
+-Soil: well-draining soil, preferably enriched with organic matter. Avoid waterlogged or overly wet soil.
 
 ## Key Features:
 - Real-time data monitoring
@@ -52,6 +55,6 @@ Grafana is a tool in helping finally visualize the data, after the generated dat
 - Soil and Environmental Management: The system will provide insights into maintaining the ideal soil and environmental conditions for Blue Jacket Hyacinth's growth.
 
 ## Future enhancement:
-- To add more functions such as a light exposure sensor, pH level detection, and others to monitor the plant at the next level.
+- To add more functions such as a light exposure sensor, detects for over or less watered soils, and others to monitor the plant at the next level.
 
 Feel free to contribute, provide feedback, or collaborate on this endeavor towards creating an effective plant monitoring process specifically designed for Hyacinthus lovers!
