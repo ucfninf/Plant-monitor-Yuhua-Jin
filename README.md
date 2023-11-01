@@ -29,9 +29,9 @@ Connect to the MQTT Exporer, login to cetools.org, and find student/casa0014/pla
 
 
 ## Build up a customated soil moisture sensors
-To begin build up the soil moisture sensor, we learned and understand solding, ways to connect the DHT22 sensor, Huzzah and the cada plant Monitor shied. ![image](https://github.com/ucfninf/Plant-monitor-Yuhua-Jin/assets/146268411/3ceefffe-1980-47d2-ad99-79b93fa2bd8b)
+To begin build up the soil moisture sensor, we learned and understand solding, ways to connect the DHT22 sensor, Huzzah and the casa plant Monitor shield. ![image](https://github.com/ucfninf/Plant-monitor-Yuhua-Jin/assets/146268411/3ceefffe-1980-47d2-ad99-79b93fa2bd8b)
 
-Then, I will need to connect and upload the data, turn on serial monitor on visual data sensoring.
+Then to connect and upload the data, turn on serial monitor on visual data sensoring.
 ![屏幕截图 2023-10-25 155345](https://github.com/ucfninf/Plant-monitor-Yuhua-Jin/assets/146268411/92457c79-5dc9-4206-aaa0-4e6204cc3b73)
  ![e8087ce2200e276a9bf71e17bdca252](https://github.com/ucfninf/Plant-monitor-Yuhua-Jin/assets/146268411/01c5c7df-6ea7-4149-b7bf-d4f5addcfb91)
 
