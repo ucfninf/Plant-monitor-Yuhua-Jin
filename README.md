@@ -3,9 +3,10 @@ Hello! Welcome to the repository for the Plant Monitoring Device designed to cat
 
 ## Overview
 In this repository is typically including the work process of connecting and putting togther a plant monitor and realtime code and updated data progresses. in this case we specialized to Blue Jacket Hyacinthus.
--hyacinth bulbs normally plant in the fall, about 4-6 weeks before the ground freezes. This allows them to establish roots before winter.
-Temperature: The bulbs need the cool of winter to simulate their natural environment and encourage proper sprouting in the spring.
--Soil: well-draining soil, preferably enriched with organic matter. Avoid waterlogged or overly wet soil.
+
+Hyacinth bulbs normally plant in the fall, about 4-6 weeks before the ground freezes. This allows them to establish roots before winter.
+- Temperature: The bulbs need the cool of winter to simulate their natural environment and encourage proper sprouting in the spring.
+- Soil: well-draining soil, preferably enriched with organic matter. Avoid waterlogged or overly wet soil.
 
 ## Key Features:
 - Real-time data monitoring
