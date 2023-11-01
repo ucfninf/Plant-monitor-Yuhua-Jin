@@ -31,18 +31,20 @@ Connect to the MQTT Exporer, login to cetools.org, and find student/casa0014/pla
 ## Build up a customated soil moisture sensors
 To begin build up the soil moisture sensor, we learned and understand solding, ways to connect the DHT22 sensor, Huzzah and the casa plant Monitor shield. ![image](https://github.com/ucfninf/Plant-monitor-Yuhua-Jin/assets/146268411/3ceefffe-1980-47d2-ad99-79b93fa2bd8b)
 
-Then to connect and upload the data, turn on serial monitor on visual data sensoring.
+
+
+Next is to connect and upload the data, turn on serial monitor on visual data sensoring.
 ![屏幕截图 2023-10-25 155345](https://github.com/ucfninf/Plant-monitor-Yuhua-Jin/assets/146268411/92457c79-5dc9-4206-aaa0-4e6204cc3b73)
  ![e8087ce2200e276a9bf71e17bdca252](https://github.com/ucfninf/Plant-monitor-Yuhua-Jin/assets/146268411/01c5c7df-6ea7-4149-b7bf-d4f5addcfb91)
 
 
-Since this sensor is typiclly designed for the plant heathcare of the blue jacket hyacinthus, which its seed will begin to sprout after 2 weeks around in 10 degree celsilous, the monitor is customized that the temperature should be at 10 or below 10 degrees or else the led light will blink, reminding user that its not a suitable environments for the typical flower to grow better.
+This sensor is typiclly designed for the plant heathcare of the blue jacket hyacinthus, which its seed will begin to sprout after 2 weeks around in 10 degree celsilous, the monitor is customized that the temperature should be at 10 or below 10 degrees or else the led light will blink, reminding user that its not a suitable environments for the typical flower to grow better.
 ![jpeg 2](https://github.com/ucfninf/Plant-monitor-Yuhua-Jin/assets/146268411/684100af-ffcc-4f33-8c0e-abe6d78c7d7f)
 
 ### Store data on a RPi Gateway
 Setting up a Resperry Pi, we need to connect to the terminal and name the RPi
 ![4a74f8a29f6f2a771865be2e400ffb5](https://github.com/ucfninf/Plant-monitor-Yuhua-Jin/assets/146268411/3bc0ad78-474d-4e24-a791-d25d19ead48e)
-
+![Process 2023-11-01 105536](https://github.com/ucfninf/Plant-monitor-Yuhua-Jin/assets/146268411/a24b5237-5169-4693-8b61-31358b577081)
 set up and sign up InfluxDB to save the MQTT feed data.
 set up Telegraf  to use to insert data to the database, running live in the terminal using the config file,for us to manage the plant monitor, and be able to explore the data through the Data Explorer.
 ![image](https://github.com/ucfninf/Plant-monitor-Yuhua-Jin/assets/146268411/390fd620-adc0-4d23-b89d-f7cca004464d)
