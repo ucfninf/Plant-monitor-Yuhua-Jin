@@ -4,6 +4,12 @@ Hello! Welcome to the repository for the Plant Monitoring Device designed to cat
 ## Overview
 In this repository is typically including the work process of connecting and putting togther a plant monitor and realtime code and updated data progresses. in this case we specialized to Blue Jacket Hyacinthus.
 
+## Purposes of this idea:
+- Plant Health Care: The device aims to offer early - detection of plant diseases and nutritional deficiencies to maintain plant health.
+- Maintaining Ecological Balance: Emphasizing the importance of ecological balance to ensure the overall health and vitality of the plants.
+- Soil and Environmental Management: The system will provide insights into maintaining the ideal soil and environmental conditions for Blue Jacket Hyacinth's growth.
+
+### Conditions
 Hyacinth bulbs normally plant in the fall, about 4-6 weeks before the ground freezes. This allows them to establish roots before winter.
 - Temperature: The bulbs need the cool of winter to simulate their natural environment and encourage proper sprouting in the spring.
 - Soil: well-draining soil, preferably enriched with organic matter. Avoid waterlogged or overly wet soil.
@@ -47,13 +53,6 @@ Grafana is a tool in helping finally visualize the data, after the generated dat
 ![image](https://github.com/ucfninf/Plant-monitor-Yuhua-Jin/assets/146268411/1d08b54b-bcdc-4fd7-af67-36a27e805fe6)
 
 
-
-
-
-## Purposes of this idea:
-- Plant Health Care: The device aims to offer early - detection of plant diseases and nutritional deficiencies to maintain plant health.
-- Maintaining Ecological Balance: Emphasizing the importance of ecological balance to ensure the overall health and vitality of the plants.
-- Soil and Environmental Management: The system will provide insights into maintaining the ideal soil and environmental conditions for Blue Jacket Hyacinth's growth.
 
 ## Future enhancement:
 - To add more functions such as a light exposure sensor, detects for over or less watered soils, and others to monitor the plant at the next level.
