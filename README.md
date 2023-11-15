@@ -59,4 +59,7 @@ Grafana is a tool in helping finally visualize the data, after the generated dat
 ## Future enhancement:
 - To add more functions such as a light exposure sensor, detects for over or less watered soils, and others to monitor the plant at the next level.
 
+I have also tried to place the plant and the plant monitor in different temperatures, retrieved temperature data shown as follow:
+"C:\Users\DELL\Pictures\Screenshots\Plant monitor data NOV 12-15.png" 
+
 Feel free to contribute, provide feedback, or collaborate on this endeavor towards creating an effective plant monitoring process specifically designed for Hyacinthus lovers!
