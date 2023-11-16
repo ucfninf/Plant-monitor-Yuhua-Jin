@@ -38,6 +38,8 @@ Next is to connect and upload the data, turn on serial monitor on visual data se
  ![e8087ce2200e276a9bf71e17bdca252](https://github.com/ucfninf/Plant-monitor-Yuhua-Jin/assets/146268411/01c5c7df-6ea7-4149-b7bf-d4f5addcfb91)
 
 
+*This plant monitor is designed for specific plants, and users re-edit the Arduino code of the plant and the growing conditions required at each stage. In this blog, the test object I chose is hyacinth, which is currently in the bulb stage and needs to be activated in an environment with a temperature of ten degrees Celsius before it can germinate.
+
 This sensor is typiclly designed for the plant heathcare of the blue jacket hyacinthus, which its seed will begin to sprout after 2 weeks around in 10 degree celsilous, the monitor is customized that the temperature should be at 10 or below 10 degrees or else the led light will blink, reminding user that its not a suitable environments for the typical flower to grow better.
 ![jpeg 2](https://github.com/ucfninf/Plant-monitor-Yuhua-Jin/assets/146268411/684100af-ffcc-4f33-8c0e-abe6d78c7d7f)
 
@@ -61,6 +63,7 @@ Grafana is a tool in helping finally visualize the data, after the generated dat
 
 I have also tried to place the plant and the plant monitor in different temperatures, retrieved temperature data shown as follow:
 ![plant monitor NOV12-15](https://github.com/ucfninf/Plant-monitor-Yuhua-Jin/assets/146268411/8d606b4c-b2fb-4c1c-8fc6-ff0813f23945)
+
 
 
 Feel free to contribute, provide feedback, or collaborate on this endeavor towards creating an effective plant monitoring process specifically designed for Hyacinthus lovers!
